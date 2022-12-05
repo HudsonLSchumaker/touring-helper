@@ -121,7 +121,7 @@ class TourService(
                 "Usain Bolt",
                 "+496666666666"
             ),
-            bags = emptyList(),
+            bags = listOf("100023"),
             tip = 2.0,
             requiresLegalCheck = true,
             additionalInformation = "bla bla bla",
