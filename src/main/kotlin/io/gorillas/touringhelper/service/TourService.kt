@@ -122,7 +122,7 @@ class TourService(
                 "+496666666666"
             ),
             bags = listOf("100023"),
-            tip = 2.0,
+            tip = 2.50,
             requiresLegalCheck = true,
             additionalInformation = "bla bla bla",
             totalWeight = TotalWeight(
